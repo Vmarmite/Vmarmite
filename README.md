@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <!-- Header Banner -->
@@ -72,8 +71,8 @@ const victor = {
 ## 📈 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-vmarmites-projects.vercel.app/api?username=Vmarmite&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-  <img height="170" src="https://github-readme-stats-vmarmites-projects.vercel.app/api/top-langs/?username=Vmarmite&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vmarmite&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vmarmite&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </div>
 
 <!-- Activity Graph -->
