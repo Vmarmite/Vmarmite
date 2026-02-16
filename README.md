@@ -1,10 +1,12 @@
+## Hi there, I'm Victor (he/him) 👋
+
 <div align="center">
 
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=220&section=header&text=Victor&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Builder&descSize=18&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+robust+backends+with+NestJS+%26+GraphQL;Exploring+web+security+%26+multi-agent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+robust+backends+with+NestJS+%26+GraphQL;Exploring+web+security+%26+multi-agent+systems)](https://git.io/typing-svg)
 
 <!-- Socials -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victormariton) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victor.mariton@gmail.com)
