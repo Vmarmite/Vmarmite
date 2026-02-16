@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Victor&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Victor&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+robust+backends+with+NestJS+%26+GraphQL;Exploring+web+security+%26+multi-agent+systems)](https://git.io/typing-svg)
@@ -14,7 +14,7 @@
 
 ```typescript
 const victor = {
-  location: "🇨🇦 Montréal, QC",
+  location: "🇨🇦 Montréal, QC, from France 🇫🇷",
   languages: ["Français", "English"],
   focus: "Backend Architecture & Web Security",
   currentlyExploring: ["Quantum Computing", "Functional Programming", "Multi-Agent Systems"],
@@ -33,6 +33,14 @@ const victor = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Data & Infrastructure**
 
@@ -64,17 +72,13 @@ const victor = {
 ## 📈 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vmarmite&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarmite&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </div>
 
-<!-- Snake animation -->
+<!-- Activity Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vmarmite&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="95%" />
 </div>
 
 <!-- Footer -->
