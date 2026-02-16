@@ -1,9 +1,8 @@
 ## Hi there 👋
-
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Victor&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Victor&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+robust+backends+with+NestJS+%26+GraphQL;Exploring+web+security+%26+multi-agent+systems)](https://git.io/typing-svg)
@@ -15,11 +14,11 @@
 
 ```typescript
 const victor = {
-  location: "🇫🇷 France",
-  languages: ["Français", "English", "Italiano 🌱"],
+  location: "🇨🇦 Montréal, QC",
+  languages: ["Français", "English"],
   focus: "Backend Architecture & Web Security",
-  currentlyExploring: ["Multi-Agent Systems", "Agentic Design Patterns", "Claude Code"],
-  funFact: "I analyze LoL esports stats as seriously as production metrics 📊"
+  currentlyExploring: ["Quantum Computing", "Functional Programming", "Multi-Agent Systems"],
+  funFact: "I debug auth vulnerabilities like a detective solves cold cases 🔍"
 };
 ```
 
@@ -56,7 +55,8 @@ const victor = {
 <td align="center" width="150">🔐<br><b>Web Security</b><br><sub>Timing attacks,<br>auth vulnerabilities</sub></td>
 <td align="center" width="150">🤖<br><b>Multi-Agent AI</b><br><sub>Agentic patterns,<br>orchestration</sub></td>
 <td align="center" width="150">🎵<br><b>Jazz</b><br><sub>Vinyl collector,<br>album deep dives</sub></td>
-<td align="center" width="150">🎮<br><b>LoL Esports</b><br><sub>LEC analyst,<br>stats enthusiast</sub></td>
+<td align="center" width="150">⚛️<br><b>Quantum Dev</b><br><sub>Quantum computing,<br>Qiskit explorations</sub></td>
+<td align="center" width="150">λ<br><b>Functional</b><br><sub>Pure functions,<br>immutability</sub></td>
 </tr>
 </table>
 
@@ -84,6 +84,8 @@ const victor = {
 
 <sub>💬 *"Pas de bons backends sans une bonne architecture."*</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+
+</div>
 
 </div>
